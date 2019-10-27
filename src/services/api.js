@@ -6,31 +6,31 @@ export function loadLists() {
       cards: [
         {
           id: 1,
-          content: 'Teste',
+          content: 'Loja GB006',
           labels: ['#0000ff'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 2,
-          content: 'Teste',
+          content: 'Loja GB034',
           labels: ['#0000ff'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 3,
-          content: 'Teste',
+          content: 'Loja GB020',
           labels: ['#0000ff'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 4,
-          content: 'Teste',
+          content: 'Loja  PZ731',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 5,
-          content: 'Teste',
+          content: 'LOja BT557',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
@@ -42,7 +42,7 @@ export function loadLists() {
       cards: [
         {
           id: 6,
-          content: 'Teste',
+          content: 'Loja GB004',
           labels: [],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         }
@@ -54,19 +54,19 @@ export function loadLists() {
       cards: [
         {
           id: 7,
-          content: 'Teste',
+          content: 'Loja GB014',
           labels: ['#0000ff'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 8,
-          content: 'Teste',
+          content: 'Loja GB118',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
         },
         {
           id: 9,
-          content: 'Teste',
+          content: 'Loja GB090',
           labels: [],
         }
       ]
@@ -83,12 +83,12 @@ export function loadLists() {
         },
         {
           id: 12,
-          content: 'Teste',
+          content: 'Loja GB031',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Teste',
+          content: 'Loja GB035',
           labels: ['#0000ff'],
         }
       ]
